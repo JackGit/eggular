@@ -1,6 +1,6 @@
 {
   "name": "eggular",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "dependencies": {
     "egg": "^2.3.0"
@@ -35,7 +35,8 @@
     "url": ""
   },
   "keywords": [
-    "egg", "egg-framework"
+    "egg",
+    "egg-framework"
   ],
   "author": "ygjack414@hotmail.com",
   "files": [
@@ -44,6 +45,9 @@
     "lib",
     "index.js"
   ],
-  "eslintIgnore": [ "coverage", "dist" ],
+  "eslintIgnore": [
+    "coverage",
+    "dist"
+  ],
   "license": "MIT"
 }
