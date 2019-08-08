@@ -1,9 +1,11 @@
 {
   "name": "eggular",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "dependencies": {
-    "egg": "^2.3.0"
+    "egg": "^2.3.0",
+    "mysql2": "^1.5.3",
+    "sequelize": "^5.12.3"
   },
   "devDependencies": {
     "autod": "^3.0.1",
